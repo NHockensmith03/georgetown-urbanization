@@ -10,6 +10,6 @@ _This map displays the loss of agricultural land around Georgetown, Kentucky fro
 
 ## Virtual Tour
 ![Urban Expansion of Georgetown, Kentucky Animation](animation_pic.jpg)  
-_[Click Here For Virtual Tour](hhttps://youtu.be/gaFjE6-aItE)_
+_[Click Here For Virtual Tour](https://youtu.be/gaFjE6-aItE)_
 
 Maps compiled by NHockensmith03, Spring 2025 for the University of Kentucky, Department of Geography, GEO 409. Data sources used are Ky_NLCD_2001_30M & Ky_NLCD_2021_30M collected from KyFromAbove.Ky.gov 
